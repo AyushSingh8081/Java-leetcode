@@ -13,9 +13,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
