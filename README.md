@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushSingh8081/Java-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2413-smallest-even-multiple](https://github.com/AyushSingh8081/Java-leetcode/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AyushSingh8081/Java-leetcode/tree/master/0402-remove-k-digits) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/AyushSingh8081/Java-leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
